@@ -1,4 +1,5 @@
 # Yearly Technical Interview Prep Guide
+*This is a personal and opinionated guide, but feel free to use it if it's helpful to you.*
 
 Damn, is it already that time of year again? It felt like just yesterday that you had secured your career plans and were smooth sailing. This guide serves as a reminder for how you've prepared for technical interviews in the past in order to hopefully save you time in the future.
 
