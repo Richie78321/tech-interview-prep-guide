@@ -75,7 +75,13 @@ Below is a list of some good collections of practice questions that you've used 
 
 * https://techinterviewhandbook.org/best-practice-questions
 
-## 4. Practice the soft stuff (~hours)
+## 4. Do some mock interviews (~hours)
+
+Find some friends to do mock interviews with. Aim to do at least one, but ideally 3+. Offer to do a mutual interview-for-interview.
+
+If you can't find any friends to do mock interviews with, consider using [Pramp](https://www.pramp.com/), a free mock interviewing platform (I've never used it, but I remember looking into it once).
+
+## 5. Practice the soft stuff (~hours)
 
 A technical interview is still an interview. Being personable and prepared to talk about yourself is important for leaving a good impression.
 
