@@ -25,9 +25,10 @@ Technical interviews often follow a set structure that you can gamify:
    * Stuck?
      1. Think about how certain key data structures could be used to solve this problem
      2. Try visualizing the problem in multiple different ways. Sometimes a change in perspective can reveal key patterns in the problem
-     3. Think about how you would solve it and translate that intuition into an algorithm
-     4. Solve a simpler version of the problem and then expand the solution
-     5. Start with the brute-force solution, and look for optimizations -- bottlenecks, unused information, unnecessary work, duplicated work
+     3. Consider if the problem can be broken down into multiple simpler cases
+     4. Think about how you would solve it and translate that intuition into an algorithm
+     5. Solve a simpler version of the problem and then expand the solution
+     6. Start with the brute-force solution, and look for optimizations -- bottlenecks, unused information, unnecessary work, duplicated work
 4. **Do a pass over the algorithm before implementation**
    * *Identify the time and space complexity*
    * *Run through an example manually*
@@ -92,4 +93,20 @@ Review the points on your resume and be prepared to talk about each.
 Prepare stories for the bigger items by outlining the main points you'd like to get across and practicing cohesively covering them all.
 
 Practice everything out-loud.
+
+## Miscellaneous Tips
+
+Talk a lot during the interviews. Avoid awkward silence where they might think you're stuck by literally saying "I'm thinking about X...".
+
+Drink a little bit of coffee about 1 hour before the interviews for an extra boost.
+
+Keep a log of the LeetCode problems you do, and write notes when you learn something.
+
+In general, if something seems wildly complex with many different cases and corner-cases, you've likely missed some key realization in the problem that makes it more reasonable to solve.
+
+Try to think about what truths you can state about the algorithm that can help simplify a solution. For example: "picking the interval that ends soonest leaves the most room for future intervals" or "this sub-problem has no dependence on what has come before, so it can be computed independently".
+
+When determining the runtime of recursive algorithms, think about the branching factor and maximum depth of recursive calls and how those change based on input size.
+
+Remember that dynamic programming is more than just memoization in a recursive solution. Sometimes the iterative version of the algorithm (the one that computes the solutions to sub-problems first) can reveal key information about improving space and time complexity. For example, in the iterative solution it might become clear that computing the next sub-problem only requires the solutions from the past two sub-problems, so you can use constant memoization space instead of linear.
 
