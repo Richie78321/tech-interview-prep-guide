@@ -24,9 +24,10 @@ Technical interviews often follow a set structure that you can gamify:
      * *Want to map out all information needed for implementation*
    * Stuck?
      1. Think about how certain key data structures could be used to solve this problem
-     2. Start with the brute-force solution, and look for optimizations -- bottlenecks, unused information, unnecessary work, duplicated work
+     2. Try visualizing the problem in multiple different ways. Sometimes a change in perspective can reveal key patterns in the problem
      3. Think about how you would solve it and translate that intuition into an algorithm
      4. Solve a simpler version of the problem and then expand the solution
+     5. Start with the brute-force solution, and look for optimizations -- bottlenecks, unused information, unnecessary work, duplicated work
 4. **Do a pass over the algorithm before implementation**
    * *Identify the time and space complexity*
    * *Run through an example manually*
@@ -91,3 +92,4 @@ Review the points on your resume and be prepared to talk about each.
 Prepare stories for the bigger items by outlining the main points you'd like to get across and practicing cohesively covering them all.
 
 Practice everything out-loud.
+
