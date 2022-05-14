@@ -89,11 +89,19 @@ If you can't find any friends to do mock interviews with, consider using [Pramp]
 
 A technical interview is still an interview. Being personable and prepared to talk about yourself is important for leaving a good impression.
 
-Review the points on your resume and be prepared to talk about each. 
+* Review the points on your resume and be prepared to talk about each.
+* Prepare stories for the bigger items by outlining the main points you'd like to get across and practicing cohesively covering them all.
+* Practice everything out-loud.
 
-Prepare stories for the bigger items by outlining the main points you'd like to get across and practicing cohesively covering them all.
+Use the table below to prepare some answers to common behavioral questions:
 
-Practice everything out-loud.
+|            | Experience 1                                                 | Experience 2 |
+| ---------- | ------------------------------------------------------------ | ------------ |
+| Leadership | (Show ownership on a project, a team, etc.)                  |              |
+| Teamwork   | (Provide examples of interpersonal soft-skills: getting & giving help, communication, documentation, etc.) |              |
+| Success    | (What unique trait do you have that brings success?)         |              |
+| Challenges | (How have you learned to handle challenging work? What steps do you take to ensure success?) |              |
+| Failures   | (How do you recover from failures?)                          |              |
 
 ## Miscellaneous Tips
 
