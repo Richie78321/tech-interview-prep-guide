@@ -100,7 +100,7 @@ Use the table below to prepare some answers to common behavioral questions:
 | Leadership | (Show ownership on a project, a team, etc.)                  |              |
 | Teamwork   | (Provide examples of interpersonal soft-skills: getting & giving help, communication, documentation, etc.) |              |
 | Success    | (What unique trait do you have that brings success?)         |              |
-| Challenges | (How have you learned to handle challenging work? What steps do you take to ensure success?) |              |
+| Challenges | (What have you learned to handle challenging work? What steps do you take to ensure success?) |              |
 | Failures   | (How do you recover from failures?)                          |              |
 
 ## Miscellaneous Tips
