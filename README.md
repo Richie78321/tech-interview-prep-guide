@@ -7,6 +7,7 @@ Damn, is it already that time of year again? It felt like just yesterday that yo
 
 * Open source, comprehensive guide for technical interviews: https://techinterviewhandbook.org/
 * LeetCode questions to practice in order of importance: https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score
+* A curated list of LeetCode questions organized by practiced skill: https://neetcode.io/
 
 ## 1. Recall the structure of a technical interview (~hours)
 
