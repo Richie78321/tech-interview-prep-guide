@@ -1,7 +1,9 @@
 # Yearly Technical Interview Prep Guide
 *This is a personal and opinionated guide, but feel free to use it if it's helpful to you.*
 
-Damn, is it already that time of year again? It felt like just yesterday that you had secured your career plans and were smooth sailing. This guide serves as a reminder for how you've prepared for technical interviews in the past in order to hopefully save you time in the future.
+Other guides:
+
+* [System Design Interview Guide](system-design.md)
 
 ## Quick links
 
@@ -28,9 +30,10 @@ Technical interviews often follow a set structure that you can gamify:
      1. Think about how certain key data structures could be used to solve this problem
      2. Try visualizing the problem in multiple different ways. Sometimes a change in perspective can reveal key patterns in the problem
      3. Consider if the problem can be broken down into multiple simpler cases
-     4. Think about how you would solve it and translate that intuition into an algorithm
-     5. Solve a simpler version of the problem and then expand the solution
-     6. Start with the brute-force solution, and look for optimizations -- bottlenecks, unused information, unnecessary work, duplicated work
+     4. Think about what truths you can state about the algorithm that can help simplify to a solution
+     5. Think about how you would solve it and translate that intuition into an algorithm
+     6. Solve a simpler version of the problem and then expand the solution
+     7. Start with the brute-force solution, and look for optimizations -- bottlenecks, unused information, unnecessary work, duplicated work
 4. **Do a pass over the algorithm before implementation**
    * *Identify the time and space complexity*
    * *Run through an example manually*
@@ -120,3 +123,10 @@ When determining the runtime of recursive algorithms, think about the branching 
 
 Remember that dynamic programming is more than just memoization in a recursive solution. Sometimes the iterative version of the algorithm (the one that computes the solutions to sub-problems first) can reveal key information about improving space and time complexity. For example, in the iterative solution it might become clear that computing the next sub-problem only requires the solutions from the past two sub-problems, so you can use constant memoization space instead of linear.
 
+You should aim to explain an "informal proof" for why an algorithm is correct. You should not rely on a good feeling alone. Go through the logic for why an algorithm works in each significant case.
+
+Breadth-first search enables you to search nodes in an increasing radius around a starting node. This is useful for problems where you need to find a minimum-distance node that satisfies a condition.
+
+For linked list problems, if it seems like there are a few special cases for the first element in the list, consider starting the operation "one reference back". Sometimes this allows you to avoid any initialization or special logic for the first element.
+
+For 2D dynamic programming problems, it is often the case that *the path between memoization cells represents the state*. This instead of just the final memoization cell position representing the state. Oftentimes two different states can lead to the same memoization cell because they took different paths through the 2D memoization structure to get there. [This LeetCode problem](https://leetcode.com/problems/interleaving-string/) provides a concrete example. So does [this one](https://leetcode.com/problems/edit-distance/description/).
