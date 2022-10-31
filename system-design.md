@@ -1,5 +1,7 @@
 # Yearly System Design Interview Prep Guide
 
+*This is a personal and opinionated guide, but feel free to use it if it's helpful to you.*
+
 ## Quick links
 
 * Open source crash course for system design: https://github.com/donnemartin/system-design-primer
