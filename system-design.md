@@ -4,16 +4,16 @@
 
 * Open source crash course for system design: https://github.com/donnemartin/system-design-primer
 
-## 1. Recall the structure of a system design interview (~hours)
+## 1. Recall the structure of a system design interview (~minutes)
 
 System design interviews are less structured than technical interviews, but they take this general form:
 
 1. **Listen to the problem**
-   * *Clarify underspecified requirements* -- this is the time to show your interviewer that you can identify and resolve underspecified system requirements
+   * *Clarify underspecified requirements* before you start thinking about a solution
 2. **Talk through a solution**
    * You will very likely have a whiteboard to sketch out your proposed system
 
-## 2. Review the key technologies and ideas (~days)
+## 2. Review the key technologies and ideas (~hours)
 
 Below is a list containing the key technologies and ideas that I've seen in system design interviews. It is loosely ordered by importance.
 
