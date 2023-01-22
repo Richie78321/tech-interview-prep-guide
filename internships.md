@@ -50,7 +50,7 @@ Prepare for every meeting beforehand. It is often way easier to have a structure
 * Any relevant information, maybe an outline of the points you want to bring up
 * Any questions you have for the others in the meeting
 
-Don't get too obsessed with your project. Leave time for other things like meeting people, going to intern events, or learning things tangent to your project.
+Don't get too obsessed with your project. Leave time for other things like meeting people, going to intern events, or learning things outside of your project.
 
 * Your intern project is designed to leave some room for other activities. As long as you put good work in on most days, you should have no trouble meeting expectations.
 
