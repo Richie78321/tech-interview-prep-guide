@@ -4,6 +4,7 @@
 Other guides:
 
 * [System Design Interview Guide](system-design.md)
+* [Internship Guide](internships.md)
 
 ## Quick links
 
